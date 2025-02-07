@@ -15,3 +15,13 @@
 
 
 ⚡ Stay secure, stay curious! 😈💻🔍
+
+
+### 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tuo-username&theme=dracula&margin-w=10)  
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=dracula)  
+
+### 🚀 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=dracula)  
