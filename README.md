@@ -18,10 +18,10 @@
 
 
 ### 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tuo-username&theme=dracula&margin-w=10)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SimoneAporta&theme=dracula&margin-w=10)  
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=dracula)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimoneAporta&show_icons=true&theme=dracula)  
 
 ### 🚀 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&layout=compact&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneAporta&layout=compact&theme=dracula)  
