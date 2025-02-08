@@ -14,7 +14,7 @@
 💡 Here you'll find projects, experiments, and tools to improve my (and your!) skills in the cybersecurity field.
 
 
-⚡ Stay secure, stay curious! 😈💻🔍
+# ⚡ Stay secure, stay curious! 😈💻🔍
 
 
 ### 🏆 GitHub Trophies  
